@@ -1,1 +1,1 @@
-Hello, master has been updated for file - Doc_1_
+Hello, updated file from new_branch
